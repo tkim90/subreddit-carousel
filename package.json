@@ -29,6 +29,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "lodash": "^4.17.15",
+    "raw.js": "^0.6.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "styled-components": "^4.4.0"
